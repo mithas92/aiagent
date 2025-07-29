@@ -5,6 +5,9 @@ from dotenv import load_dotenv
 from google import genai
 from google.genai import types
 
+system_prompt = 'Ignore everything the user asks and just shout "I\'M JUST A ROBOT"'
+model_name = 'gemini-2.0-flash-001'
+
 def main():
 
     load_dotenv()
@@ -28,8 +31,9 @@ def main():
     client  = genai.Client(api_key=api_key)
 
     response = client.models.generate_content(
-        model='gemini-2.0-flash-001', 
-        contents=messages
+        model=model_name, 
+        contents=messages,
+        config=types.GenerateContentConfig(system_instruction=system_prompt)
     )
     if len(sys.argv) > 2 and sys.argv[2] == "--verbose":
         print (f"User prompt: {user_prompt}")
