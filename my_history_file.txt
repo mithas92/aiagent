@@ -1,0 +1,1000 @@
+    1  which sh
+    2  cat /bin/sh
+    3  cls
+    4  clear
+    5  ls
+    6  cat bin/genids.sh
+    7  ls -a ~
+    8  nano ~/.zshrc
+    9  ls -ah ~
+   10  ls -a -h ~
+   11  ls -al ~
+   12  clear
+   13  ls
+   14  cd bin
+   15  ls
+   16  cat warn.sh
+   17  ls -l 
+   18  ./warn.sh
+   19  export WARN_MESSAGE = "The auditor is here"
+   20  export WARN_MESSAGE="The auditor is here"
+   21  export WARN_FROM_NAME="Your worst nightmare"
+   22  ./warn.sh
+   23  echo path
+   24  echo $path
+   25  pwd
+   26  export path=""
+   27  export PATH=""
+   28  ls
+   29  pwd
+   30  echo "gg"
+   31  conda env list
+   32  conda activate llms
+   33  ollama list
+   34  ollama show llama3.3:latest
+   35  ollama show llama3.1:latest
+   36  go version
+   37  go install github.com/bootdotdev/bootdev@latest
+   38  bootdev --version
+   39  bootdev --version
+   40  bootdev --version
+   41  go version
+   42  echo 'export PATH=$PATH:$HOME/go/bin' >> ~/.zshrc\n# next, reload your shell configuration\nsource ~/.zshrc
+   43  sudo echo 'export PATH=$PATH:$HOME/go/bin' >> ~/.zshrc
+   44  ls
+   45  ls -a
+   46  cd .local
+   47  ls
+   48  cd opt
+   49  ls
+   50  ls -a
+   51  pwd
+   52  echo $home
+   53  echo $HOME
+   54  cd ..
+   55  which go
+   56  cd /usr
+   57  ls
+   58  pwd
+   59  cd local
+   60  ls
+   61  cd go
+   62  ls
+   63  ls -a
+   64  cd bin
+   65  ls -a
+   66  ls
+   67  ls -l
+   68  cd ..
+   69  find boot*.*
+   70  man find
+   71  which go
+   72  cd /usr/local/go/bin/go
+   73  cd /usr/local/go/bin/
+   74  ls
+   75  go install github.com/bootdotdev/bootdev@latest
+   76  bootdev --version
+   77  cd. ..
+   78  cd ..
+   79  cd ..
+   80  cd ..
+   81  cd ..
+   82  ls
+   83  find -name boot*.*
+   84  find -name go*.*
+   85  find -name go
+   86  /usr/bin/python3 /Users/salman/.vscode/extensions/ms-python.python-2025.4.0-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/salman/.vscode/extensions/ms-python.python-2025.4.0-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+   87  /usr/bin/python3 /Users/salman/.vscode/extensions/ms-python.python-2025.4.0-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/salman/.vscode/extensions/ms-python.python-2025.4.0-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+   88  go version
+   89  go install github.com/bootdotdev/bootdev@latest
+   90  bootdev --version
+   91  ls $HOME
+   92  ls $HOME/go
+   93  ls $HOME/go/bin
+   94  ls $HOME/go/bin/bootdev --version
+   95  $HOME/go/bin/bootdev --version
+   96  echo $PATH
+   97  bootdev
+   98  $HOME/go/bin/bootdev --version
+   99  echo $HOME
+  100  which go
+  101  ls
+  102  cd ~
+  103  ls
+  104  cd ..
+  105  ls
+  106  cd ..
+  107  ls
+  108  cd ..
+  109  ls
+  110  which go
+  111  $HOME/go/bin/bootdev --version
+  112  $HOME/go/bin/
+  113  ls
+  114  cd $HOME/go/bin
+  115  ls
+  116  pwd
+  117  which go
+  118  $HOME/go/bin/bootdev --version
+  119  echo $HOME
+  120  which go
+  121  go version
+  122  $HOME/go/bin/go version
+  123  ls $HOME/go/bin/
+  124  man chmod
+  125  ls
+  126  ls
+  127  man find
+  128  man source
+  129  echo $PATH
+  130  echo 'export PATH=$PATH:$HOME/go/bin' >> ~/.zshrc
+  131  sudo echo 'export PATH=$PATH:$HOME/go/bin' >> ~/.zshrc
+  132  clear
+  133  ls
+  134  cd dropbox
+  135  ls
+  136  cd "Self Learning"
+  137  ls
+  138  cd AI\ and\ Machine\ Learning
+  139  ls
+  140  cd ML\ Video\ and\ Book\ Courses
+  141  ls
+  142  cd 2025\ Bootdev\ Course
+  143  ls
+  144  ls
+  145  ls
+  146  bootpath
+  147  bootpath.sh
+  148  chmod +x bootdev.sh
+  149  ls
+  150  chmod +x bootpath.sh
+  151  bootpath.sh
+  152  ls -l
+  153  bootpath
+  154  bootpath.sh
+  155  PATH=$PATH:$HOME/go/bin
+  156  bootdev --version
+  157  ls
+  158  ls -l
+  159  sh bootpath.sh
+  160  echo $PATH
+  161  bootdev --version
+  162  PATH=$PATH:$HOME/go/bin
+  163  bootdev --version
+  164  echo $PATH
+  165  /usr/bin/python3 /Users/salman/.vscode/extensions/ms-python.python-2025.4.0-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/salman/.vscode/extensions/ms-python.python-2025.4.0-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  166  /usr/bin/python3 /Users/salman/.vscode/extensions/ms-python.python-2025.4.0-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/salman/.vscode/extensions/ms-python.python-2025.4.0-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  167  /usr/bin/python3 /Users/salman/.vscode/extensions/ms-python.python-2025.4.0-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/salman/.vscode/extensions/ms-python.python-2025.4.0-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  168  echo $PATH
+  169  bootdev
+  170  ./bootpath.sh
+  171  echo $PATH
+  172  bootdev --version
+  173  ./bootpath.sh
+  174  bootdev --version
+  175  PATH=$PATH:$HOME/go/bin
+  176  echo $PATH
+  177  bootdev --version
+  178  bootdev run 65e6780d-fdde-447a-9898-b30b73793a3a
+  179  bootdev login
+  180  bootdev run 65e6780d-fdde-447a-9898-b30b73793a3a
+  181  bootdev run 65e6780d-fdde-447a-9898-b30b73793a3a -s
+  182  git --version
+  183  bootdev run 0552b1c3-49d9-4d4b-b44d-e91188a79c92
+  184  bootdev run 0552b1c3-49d9-4d4b-b44d-e91188a79c92 -s
+  185  man git
+  186  git config --get user.name
+  187  git config --get user.email
+  188  git config --global --get user.name
+  189  git config --global init.defaultBranch master
+  190  cat ~/.gitconfig
+  191  bootdev run 69fb8a76-9456-47e2-9804-05466614882e
+  192  bootdev run 69fb8a76-9456-47e2-9804-05466614882e -s
+  193  ls
+  194  mkdir webflyx
+  195  cd webflyx
+  196  ls
+  197  git init
+  198  ls -a
+  199  bootdev run fda2c302-cb1e-4ed1-910c-609d85d33e4a
+  200  ls -al
+  201  bootdev run fda2c302-cb1e-4ed1-910c-609d85d33e4a -s
+  202  touch contents.md
+  203  ls
+  204  neovim contents.md
+  205  nvim contents.md
+  206  cat contents.md
+  207  git status
+  208  bootdev run f330368c-734c-4708-971b-2ad33b4b7f52
+  209  bootdev run f330368c-734c-4708-971b-2ad33b4b7f52 -s
+  210  cat contents.md
+  211  nvim contents.md
+  212  bootdev run f330368c-734c-4708-971b-2ad33b4b7f52
+  213  bootdev run f330368c-734c-4708-971b-2ad33b4b7f52 -s
+  214  git add contents.md
+  215  git status
+  216  bootdev run 10bf6614-7c0e-4710-9c84-4fee200d63e4
+  217  bootdev run 10bf6614-7c0e-4710-9c84-4fee200d63e4 -s
+  218  git status
+  219  git commit -m "A: add contents.md"
+  220  git status
+  221  bootdev run 321d7b2d-60b8-433c-9123-210bbf49c758
+  222  bootdev run 321d7b2d-60b8-433c-9123-210bbf49c758 -s
+  223  git --no pager log -n 10
+  224  git --no-pager log -n 10
+  225  git --no-pager log -n 1
+  226  bootdev run 865b32b2-1493-48aa-b32e-a1e7418bc609
+  227  bootdev run 865b32b2-1493-48aa-b32e-a1e7418bc609 -s
+  228  git log -n 10
+  229  ls -al .git/objects
+  230  ls -al
+  231  ls -al .git/objects
+  232  ls -al .git/objects/db
+  233  cat .git/objects/db/91ef2eff7085e6159c45cfbd2b2acc59f68e81\n
+  234  xxd .git/objects/db/91ef2eff7085e6159c45cfbd2b2acc59f68e81\n
+  235  xxd .git/objects/db/91ef2eff7085e6159c45cfbd2b2acc59f68e81 > /tmp/commit_object_hex.txt\n
+  236  ls
+  237  ls /tmp
+  238  cat /tmp/commit_object_hex.txt
+  239  bootdev run 4efdf7b5-dd51-40ea-99e3-4e221e24bd0f
+  240  bootdev run 4efdf7b5-dd51-40ea-99e3-4e221e24bd0f -s
+  241  git cat-file -p db91ef2eff7085e6159c45cfbd2b2acc59f68e81
+  242  git cat-file -p db91ef2eff7085e6159c45cfbd2b2acc59f68e81 > /tmp/catfileout.txt
+  243  bootdev run 7affbcbd-1455-43f3-868a-b10662921a91
+  244  bootdev run 7affbcbd-1455-43f3-868a-b10662921a91 -s
+  245  git cat-file -p db91ef2eff7085e6159c45cfbd2b2acc59f68e81
+  246  git cat-file -p 5b21d4f16a4b07a6cde5a3242187f6a5a68b060f
+  247  git cat-file -p ef7e93fc61a91deecaa551c4707e4c3049af42c9
+  248  git cat-file -p ef7e93fc61a91deecaa551c4707e4c3049af42c9 > /tmp/blobfile.txt
+  249  ls /temp
+  250  ls /tmp
+  251  bootdev run ce822188-75cf-4c5a-92b9-17b2878ac9f1
+  252  bootdev run ce822188-75cf-4c5a-92b9-17b2878ac9f1 -s
+  253  nvim titles.md
+  254  ls
+  255  cat titles.md
+  256  git add title.md
+  257  git add titles.md
+  258  git status
+  259  git commit -m "B: add titles"
+  260  git status
+  261  git cat-file -p
+  262  git log
+  263  git cat-file -p commit db91ef2eff7085e6159c45cfbd2b2acc59f68e81
+  264  git cat-file -p db91ef2eff7085e6159c45cfbd2b2acc59f68e81
+  265  git log
+  266  git cat-file -p db91ef2eff7085e6159c45cfbd2b2acc59f68e81
+  267  git cat-file -p 41aab715d60c6dc84657274aa12fc6910c5666c3
+  268  bootdev run 71127960-79af-452d-a732-0c44908ca7bf
+  269  bootdev run 71127960-79af-452d-a732-0c44908ca7bf -s
+  270  git log
+  271  git cat-file -p 41aab715d60c6dc84657274aa12fc6910c5666c3
+  272  git cat-file -p dc4ae6419623732fadd590f1f107c8f16b5c6190
+  273  git cat-file -p fcf089f6937a8fb91b5255e19687326c30d7d71c
+  274  mkdir quotes
+  275  ls
+  276  cd ..
+  277  webflyx
+  278  ls
+  279  cd webflyx
+  280  ls
+  281  ls -a
+  282  ls -la
+  283  cd quotes
+  284  ls
+  285  nvim starwars.md
+  286  ls
+  287  cat starwards.md
+  288  cat starwars.md
+  289  nvim dune.md
+  290  ls
+  291  cat dune.md
+  292  cd ..
+  293  ls
+  294  git add quotes
+  295  git commit -m "C: add quotes dir"
+  296  git log
+  297  git cat-file -p dc27f451a2d4dbc47a84095a1aa13af1ed0bd598
+  298  git cat-file -p b9f572b44ecc9a0ad23055cdd333b4472d245a3c
+  299  bootdev run 1e2eb318-2a6f-44a0-bc93-e9cdd9510ebe
+  300  bootdev run 1e2eb318-2a6f-44a0-bc93-e9cdd9510ebe -s
+  301  git config --list --local
+  302  git config --add webflyx.ceo "ThePrimeagen"
+  303  git config --list --local
+  304  git config --add webflyx.cto "TheLaneagen"
+  305  git config --add webflyx.valuation "mid"
+  306  git config --list --local
+  307  bootdev run 8c3b66a7-a454-480b-a0db-9cd34a721cef
+  308  bootdev run 8c3b66a7-a454-480b-a0db-9cd34a721cef -s
+  309  git config --get user.name
+  310  git config --get webflyx.ceo
+  311  bootdev run ea9fe1c9-5284-4aae-95eb-1c6a834aa7c1
+  312  bootdev run ea9fe1c9-5284-4aae-95eb-1c6a834aa7c1 -s
+  313  git config --list --local
+  314  git config --unset webflyx.cto
+  315  git config --list --local
+  316  git config --unset webflyx
+  317  git config -add webflyx.ceo "Warren"
+  318  git config --add webflyx.ceo "Warren"
+  319  git config --add webflyx.ceo "Carson"
+  320  git config --add webflyx.ceo "Sarah"
+  321  git config --list --local
+  322  git config --unset-all webflyx.ceo
+  323  git config --list --local
+  324  bootdev run 9473bfc6-37ac-4644-ab55-76e8d88d8a27
+  325  bootdev run 9473bfc6-37ac-4644-ab55-76e8d88d8a27 -s
+  326  git config --add webflyx.ceo "This is it"
+  327  git config --list --local
+  328  git config --remove-section webflyx
+  329  git config --list --local
+  330  bootdev run c2b04b80-e061-4305-96e4-33a1f6e4d959
+  331  bootdev run c2b04b80-e061-4305-96e4-33a1f6e4d959 -s
+  332  git branch
+  333  bootdev run 8b4b9cd5-af15-4d71-b790-299fd2150a93
+  334  bootdev run 8b4b9cd5-af15-4d71-b790-299fd2150a93 -s
+  335  git config --list global
+  336  git config --list --global
+  337  git config init.defaultbranch
+  338  git config init.defaultbranch "main"
+  339  git config init.defaultbranch
+  340  git branch
+  341  git branch -m master main
+  342  git branch
+  343  bootdev run 34d03c25-be7c-4f27-84a4-2c98f2a752ed
+  344  git config --global --get init.defaultBranch
+  345  git config --global --get init.defaultbranch
+  346  git config --global init.defaultbranch
+  347  git config --global init.defaultbranch "main"
+  348  git config --global init.defaultbranch
+  349  bootdev run 34d03c25-be7c-4f27-84a4-2c98f2a752ed
+  350  bootdev run 34d03c25-be7c-4f27-84a4-2c98f2a752ed -s
+  351  git branch
+  352  git --version
+  353  git switch -c add_classics
+  354  git branch
+  355  bootdev run 02f31255-f521-4317-946a-a8a9ca67e7cf
+  356  bootdev run 02f31255-f521-4317-946a-a8a9ca67e7cf -s
+  357  git switch main
+  358  git branch
+  359  git switch add_classics
+  360  git branch
+  361  bootdev run 7b1f541b-a333-4ac0-8317-8165530c0998
+  362  bootdev run 7b1f541b-a333-4ac0-8317-8165530c0998 -s
+  363  git branch
+  364  ls
+  365  git log
+  366  nvim classics.csv
+  367  cat classics.csv
+  368  git -add classics.csv
+  369  git --add classics.csv
+  370  git add classics.csv
+  371  git log
+  372  git commit -m "D: Classics in New branch"
+  373  git log
+  374  git --no-pager log -n 5
+  375  bootdev run da54c8cb-2b06-45ab-b8bb-157bc2446432
+  376  bootdev run da54c8cb-2b06-45ab-b8bb-157bc2446432 -s
+  377  git log --decorate=full
+  378  git log --decorate=no
+  379  git log --oneline
+  380  bootdev run 4c6ecd20-8510-4b37-918a-763fbade5e05
+  381  bootdev run 4c6ecd20-8510-4b37-918a-763fbade5e05 -s
+  382  ls -al
+  383  find iname main
+  384  find -iname main
+  385  find main
+  386  find main.*
+  387  find . -type f '*main*'
+  388  find . -type f *main*
+  389  find . *head*
+  390  ls .git
+  391  ls .git/refs
+  392  ls .git/refs/heads
+  393  find . head*
+  394  find . head
+  395  ls .git/refs/heads
+  396  ls -al .git/refs/heads
+  397  cat .git/refs/heads/main
+  398  ls
+  399  cat contents.md
+  400  git switch main
+  401  cat contents.md
+  402  find git status
+  403  git log
+  404  git branch
+  405  ls
+  406  nvim contents.md
+  407  cat contents.md
+  408  git commit -m "E: Updated Contents"
+  409  git add
+  410  git add contents.md
+  411  git commit -m "E: Updated Contents"
+  412  git log --online --graph --all
+  413  git log --oneline --graph --all
+  414  bootdev run 5a03b470-0ae5-45be-83e2-dd548497214f
+  415  bootdev run 5a03b470-0ae5-45be-83e2-dd548497214f -s
+  416  ls
+  417  git branch
+  418  git merge add_classics
+  419  git log --oneline --decorate --graph --parents
+  420  git commit --amend -m "F: add_classics merge main"
+  421  git log --oneline --decorate --graph --parents
+  422  git branch
+  423  git log --oneline --decorate --graph --parents
+  424  bootdev run 41af0d0d-9805-4dd0-b7f8-6526a6d42ec8
+  425  bootdev run 41af0d0d-9805-4dd0-b7f8-6526a6d42ec8 -s
+  426  git log --oneline --decorate --graph --parents
+  427  git log --oneline --decorate --graph --parents
+  428  git branch -d add_classics
+  429  git log --oneline --decorate --graph --parents
+  430  git log --oneline --decorate --graph --parents
+  431  git branch
+  432  nvim title.md
+  433  nvim titles.md
+  434  cat titles.md
+  435  git switch -c update_titles.md
+  436  git branch
+  437  git log --oneline --decorate --graph --parents
+  438  git branch -m update_ttiles.md update_titles
+  439  git branch -m update_titles.md update_titles
+  440  git log --oneline --decorate --graph --parents
+  441  git add update_titles.md
+  442  ls
+  443  git add titles.md
+  444  git commit -m "G: changing titles.md"
+  445  git log --oneline
+  446  git branch
+  447  bootdev run 9e41bec4-ca71-41a0-bcbd-9cdb5a08867c
+  448  bootdev run 9e41bec4-ca71-41a0-bcbd-9cdb5a08867c -s
+  449  git log --online
+  450  git log --oneline
+  451  git branch main
+  452  git switch  main
+  453  git branch
+  454  git log --oneline
+  455  git merge update_titles
+  456  git log --online
+  457  git log --oneline
+  458  git branch -d update_titles
+  459  git log --oneline
+  460  bootdev run 9e41bec4-ca71-41a0-bcbd-9cdb5a08867c
+  461  bootdev run 9e41bec4-ca71-41a0-bcbd-9cdb5a08867c -s
+  462  bootdev run 9e41bec4-ca71-41a0-bcbd-9cdb5a08867c
+  463  bootdev run e15fb7d6-7bbb-4185-bd12-f46613207d1c
+  464  bootdev run e15fb7d6-7bbb-4185-bd12-f46613207d1c -s
+  465  git log 
+  466  git switch -c update_dune 9fefa599aec69f5dd8b38df0d493edcaf9724cbe
+  467  git log --oneline --decorate --graph --parents
+  468  git log --online -n 1
+  469  git log --oneline -n 1
+  470  bootdev run 079797b4-66f7-4b95-a5fd-a1163dba32d9
+  471  bootdev run 079797b4-66f7-4b95-a5fd-a1163dba32d9 -s
+  472  cat dune.md
+  473  ls
+  474  ls quotes
+  475  cat quote/dune.md
+  476  cat quotes/dune.md
+  477  nvim quotes/dune.md
+  478  git add quotes
+  479  git commit -m "H: First dune.md change"
+  480  git branch 
+  481  git log --oneline
+  482  nvim quotes/dune.md
+  483  git add quotes
+  484  git status
+  485  git commit -m "I: Second dune.md change"
+  486  git status
+  487  git log --oneline
+  488  git log --oneline --decorate --graph --parents
+  489  git log --online
+  490  git branch
+  491  git rebase main
+  492  git log --oneline
+  493  git branch
+  494  bootdev run 64c4ccc9-1f14-4b70-83fc-829d91efe335
+  495  bootdev run 64c4ccc9-1f14-4b70-83fc-829d91efe335 -s
+  496  ls
+  497  git status
+  498  ls
+  499  echo "* The internship" > titles.md
+  500  cat titles.md
+  501  git status
+  502  git add title.md
+  503  git add titles.md
+  504  git status
+  505  git commit "J: bad titles.md added"
+  506  git commit -m "J: bad titles.md added"
+  507  git status
+  508  cat titles.md
+  509  git --no-pager log --oneline
+  510  bootdev run bb5f3005-894f-4d2f-80d1-75f4f143dd0d
+  511  git log --oneline
+  512  git reset HEAD~1
+  513  cat title.md
+  514  cat titles.md
+  515  nvim titles.md
+  516  cat titles.md
+  517  git add titles.md
+  518  git commit -m "J: bad titles.md added"
+  519  git log --oneline
+  520  bootdev run bb5f3005-894f-4d2f-80d1-75f4f143dd0d
+  521  bootdev run bb5f3005-894f-4d2f-80d1-75f4f143dd0d -s
+  522  git branch
+  523  git log --oneline
+  524  git status
+  525  git log 
+  526  git reset --soft 62eeca4addbcd22509606b98db6d67a2538192a0
+  527  git log 
+  528  git reset --soft 9bc217ec4cdd1514807ab366ab7d8cca2789eb11
+  529  git log 
+  530  git log --oneline
+  531  git status
+  532  bootdev run cc5ecbd6-a740-408a-9b69-5fe961aef13e
+  533  bootdev run cc5ecbd6-a740-408a-9b69-5fe961aef13e -s
+  534  cat titles.md
+  535  git reset --hard 9bc217ec4cdd1514807ab366ab7d8cca2789eb11
+  536  cat titles.md
+  537  git status
+  538  bootdev run eb5c6d9f-6203-4174-8e32-e261a707d7fe
+  539  bootdev run eb5c6d9f-6203-4174-8e32-e261a707d7fe -s
+  540  cd ..
+  541  ls
+  542  mkdir webflyx-local
+  543  ls
+  544  cd webflyx-local
+  545  ls
+  546  ls -l
+  547  ls -al
+  548  git init
+  549  ls -al
+  550  ls .git
+  551  ls
+  552  bootdev run 0443e68c-dc97-4eda-bcac-a44578c9eb68
+  553  bootdev run 0443e68c-dc97-4eda-bcac-a44578c9eb68 -s
+  554  git remote add origin ../webflyx
+  555  bootdev run ad1ac5e6-8ce7-4fc8-b603-6a359ba9c715
+  556  bootdev run ad1ac5e6-8ce7-4fc8-b603-6a359ba9c715 -s
+  557  find .git/objects
+  558  bootdev run 26a9aebe-7e7b-4ad7-9de1-1e8bda7b1296
+  559  bootdev run 26a9aebe-7e7b-4ad7-9de1-1e8bda7b1296 -s
+  560  git fetch
+  561  ls
+  562  find .git/objects
+  563  bootdev run 874bc151-49f5-4e84-b7b4-a20d4260871d
+  564  bootdev run 874bc151-49f5-4e84-b7b4-a20d4260871d -s
+  565  git log
+  566  bootdev run d8b81b4d-9341-46e9-b452-6673b07e36d1
+  567  bootdev run d8b81b4d-9341-46e9-b452-6673b07e36d1 -s
+  568  git log origin/update_dune --oneline
+  569  bootdev run 1f90b5ff-af72-4dd8-a32f-9d3c73ecd218
+  570  bootdev run 1f90b5ff-af72-4dd8-a32f-9d3c73ecd218 -s
+  571  git branch
+  572  git status
+  573  git merge origin/main
+  574  git log
+  575  bootdev run eb6e6c58-4948-4438-af6e-daff6eaa10e7
+  576  bootdev run eb6e6c58-4948-4438-af6e-daff6eaa10e7 -s
+  577  gh -h
+  578  brew install gh
+  579  gh auth login
+  580  gh auth login
+  581  cd ..
+  582  cd webflyx
+  583  ls
+  584  git remote add origin https://github.com/mithas92/webflyx.git
+  585  git ls-remote
+  586  bootdev run c465d09d-b53a-4276-978c-cc2c9f4e02ad
+  587  gh auth login
+  588  bootdev run c465d09d-b53a-4276-978c-cc2c9f4e02ad
+  589  gh auth login
+  590  cd webflyx
+  591  ls
+  592  man r
+  593  man rm
+  594  conda activate llms
+  595  conda list
+  596  clear
+  597  PATH=$PATH:$HOME/go/bin
+  598  bootdev version
+  599  bootdev --version
+  600  gh -hg
+  601  gh --help auth
+  602  gh auth login
+  603  git auth status
+  604  gh auth status
+  605  pwd
+  606  ls /Users/salman
+  607  ls ~
+  608  ls -ld ~/.config/gh
+  609  ls -ld ~/.config
+  610  ls -la ~/.config
+  611  mkdir -p ~/.config/gh
+  612  sudo mkdir -p ~/.config/gh
+  613  ls -la ~/.config
+  614  chmod 700 ~/.config/gh
+  615  sudo chmod 700 ~/.config/gh
+  616  ls  ~/.config/gh
+  617  ls ~/.config/gh
+  618  ls ~/.config/ghcd ~
+  619  ls
+  620  cd ..
+  621  cd ~
+  622  ls
+  623  ls -la
+  624  ls -la .*
+  625  clear
+  626  ls -la
+  627  cd .config
+  628  ls
+  629  ls -la
+  630  chmod gh gh auth login
+  631  gh gh auth login
+  632  cd..
+  633  PATH=$PATH:$HOME/go/bin
+  634  bootdev --version
+  635  conda activate llms
+  636  ls
+  637  gh auth login
+  638  gh -h
+  639  brew uninstall gh
+  640  brew install gh
+  641  gh -h
+  642  cd ~
+  643  ls
+  644  cd .config
+  645  ls
+  646  rm -r gh
+  647  sudo rm -r gh
+  648  ls
+  649  man ls
+  650  man mkdir
+  651  PATH=$PATH:$HOME/go/bin
+  652  gh -h
+  653  gh auth login
+  654  gh -v
+  655  gh --version
+  656  sudo chown -R $USER:staff ~/.config
+  657  sudo chown -R $USER:staff ~/.config
+  658  man chown
+  659   /usr/bin/env /opt/anaconda3/envs/livekit/bin/python /Users/salman/.vscode/extensions/ms-python.debugpy-2025.6.0-darwin-arm64/bundled/libs/debugpy/adapter/../../debugpy/launcher 56318 -- /Users/salman/Library/CloudStorage/Dropbox/Self\ Learning/AI\ and\ Machine\ Learning/ML\ Video\ and\ Book\ Courses/2025\ Bootdev\ Course/bookbot/main.py 
+  660   cd /Users/salman/Library/CloudStorage/Dropbox/Self\ Learning/AI\ and\ Machine\ Learning/ML\ Video\ and\ Book\ Courses/2025\ Bootdev\ Course/bookbot ; /usr/bin/env /opt/anaconda3/envs/livekit/bin/python /Users/salman/.vscode/extensions/ms-python.debugpy-2025.6.0-darwin-arm64/bundled/libs/debugpy/adapter/../../debugpy/launcher 56343 -- /Users/salman/Library/CloudStorage/Dropbox/Self\ Learning/AI\ and\ Machine\ Learning/ML\ Video\ and\ Book\ Courses/2025\ Bootdev\ Course/bookbot/main.py 
+  661   cd /Users/salman/Library/CloudStorage/Dropbox/Self\ Learning/AI\ and\ Machine\ Learning/ML\ Video\ and\ Book\ Courses/2025\ Bootdev\ Course/bookbot ; /usr/bin/env /opt/anaconda3/envs/livekit/bin/python /Users/salman/.vscode/extensions/ms-python.debugpy-2025.6.0-darwin-arm64/bundled/libs/debugpy/adapter/../../debugpy/launcher 56354 -- /Users/salman/Library/CloudStorage/Dropbox/Self\ Learning/AI\ and\ Machine\ Learning/ML\ Video\ and\ Book\ Courses/2025\ Bootdev\ Course/bookbot/main.py 
+  662  clear
+  663   cd /Users/salman/Library/CloudStorage/Dropbox/Self\ Learning/AI\ and\ Machine\ Learning/ML\ Video\ and\ Book\ Courses/2025\ Bootdev\ Course/bookbot ; /usr/bin/env /opt/anaconda3/envs/livekit/bin/python /Users/salman/.vscode/extensions/ms-python.debugpy-2025.6.0-darwin-arm64/bundled/libs/debugpy/adapter/../../debugpy/launcher 56486 -- /Users/salman/Library/CloudStorage/Dropbox/Self\ Learning/AI\ and\ Machine\ Learning/ML\ Video\ and\ Book\ Courses/2025\ Bootdev\ Course/bookbot/main.py 
+  664  /usr/bin/python3 /Users/salman/.vscode/extensions/ms-python.python-2025.4.0-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/salman/.vscode/extensions/ms-python.python-2025.4.0-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  665  /opt/anaconda3/envs/livekit/bin/python "/Users/salman/Library/CloudStorage/Dropbox/Self Learning/AI and Machine Learning/ML Video and Book Courses/2025 Bootdev Course/bookbot/main.py"
+  666  /opt/anaconda3/envs/livekit/bin/python
+  667  clear
+  668  /usr/bin/python3 /Users/salman/.vscode/extensions/ms-python.python-2025.4.0-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/salman/.vscode/extensions/ms-python.python-2025.4.0-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  669  /usr/bin/python3 /Users/salman/.vscode/extensions/ms-python.python-2025.4.0-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/salman/.vscode/extensions/ms-python.python-2025.4.0-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  670  /usr/bin/python3 /Users/salman/.vscode/extensions/ms-python.python-2025.4.0-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/salman/.vscode/extensions/ms-python.python-2025.4.0-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  671  /opt/anaconda3/envs/livekit/bin/python "/Users/salman/Library/CloudStorage/Dropbox/Self Learning/AI and Machine Learning/ML Video and Book Courses/2025 Bootdev Course/bookbot/main.py"
+  672  /opt/anaconda3/envs/livekit/bin/python "/Users/salman/Library/CloudStorage/Dropbox/Self Learning/AI and Machine Learning/ML Video and Book Courses/2025 Bootdev Course/bookbot/main.py"
+  673  clear
+  674  conda deactivate
+  675  /usr/bin/python3 /Users/salman/.vscode/extensions/ms-python.python-2025.4.0-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/salman/.vscode/extensions/ms-python.python-2025.4.0-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  676  /opt/anaconda3/bin/python "/Users/salman/Library/CloudStorage/Dropbox/Self Learning/AI and Machine Learning/ML Video and Book Courses/2025 Bootdev Course/bookbot/main.py"
+  677  /usr/bin/python3 /Users/salman/.vscode/extensions/ms-python.python-2025.4.0-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/salman/.vscode/extensions/ms-python.python-2025.4.0-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  678  /usr/bin/python3 /Users/salman/.vscode/extensions/ms-python.python-2025.4.0-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/salman/.vscode/extensions/ms-python.python-2025.4.0-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  679  /usr/bin/python3 /Users/salman/.vscode/extensions/ms-python.python-2025.4.0-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/salman/.vscode/extensions/ms-python.python-2025.4.0-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  680  /usr/bin/python3 /Users/salman/.vscode/extensions/ms-python.python-2025.4.0-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/salman/.vscode/extensions/ms-python.python-2025.4.0-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  681  conda activate llms
+  682  ls
+  683  conda list
+  684  /opt/anaconda3/envs/llms/bin/python "/Users/salman/Library/CloudStorage/Dropbox/Self Learning/AI and Machine Learning/ML Projects/Focus Group Project/Text Focus Group Apps/MultiBotChoice.py"
+  685  /usr/bin/python3 /Users/salman/.vscode/extensions/ms-python.python-2025.4.0-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/salman/.vscode/extensions/ms-python.python-2025.4.0-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  686  /opt/anaconda3/envs/llms/bin/python "/Users/salman/Library/CloudStorage/Dropbox/Self Learning/AI and Machine Learning/ML Projects/Focus Group Project/Text Focus Group Apps/MultiBotChoice.py"
+  687  /opt/anaconda3/envs/llms/bin/python "/Users/salman/Library/CloudStorage/Dropbox/Self Learning/AI and Machine Learning/ML Projects/Focus Group Project/Text Focus Group Apps/SingleBotChoice.py"
+  688  clear
+  689  /opt/anaconda3/envs/llms/bin/python "/Users/salman/Library/CloudStorage/Dropbox/Self Learning/AI and Machine Learning/ML Projects/Focus Group Project/Text Focus Group Apps/SingleBotChoice.py"
+  690  /usr/bin/python3 /Users/salman/.vscode/extensions/ms-python.python-2025.4.0-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/salman/.vscode/extensions/ms-python.python-2025.4.0-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  691  ls
+  692  conda activate llms
+  693  python MultiBotChoice.py
+  694  conda env list
+  695  python MultiBotChoice.py
+  696  pip freeze
+  697  clear
+  698  python MultiBotChoice.py
+  699  conda env export
+  700  conda env export > req.yml
+  701  ls
+  702  cond env list
+  703  conda env list
+  704  /usr/bin/python3 /Users/salman/.vscode/extensions/ms-python.python-2025.4.0-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/salman/.vscode/extensions/ms-python.python-2025.4.0-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  705   /usr/bin/env /opt/anaconda3/envs/bootgame/bin/python /Users/salman/.vscode/extensions/ms-python.debugpy-2025.6.0-darwin-arm64/bundled/libs/debugpy/adapter/../../debugpy/launcher 52233 -- /Users/salman/Library/CloudStorage/Dropbox/Self\ Learning/AI\ and\ Machine\ Learning/ML\ Video\ and\ Book\ Courses/2025\ Bootdev\ Course/bootgame/main.py 
+  706  /opt/anaconda3/envs/bootgame/bin/python "/Users/salman/Library/CloudStorage/Dropbox/Self Learning/AI and Machine Learning/ML Video and Book Courses/2025 Bootdev Course/bootgame/main.py"
+  707  clear
+  708  /opt/anaconda3/envs/bootgame/bin/python "/Users/salman/Library/CloudStorage/Dropbox/Self Learning/AI and Machine Learning/ML Video and Book Courses/2025 Bootdev Course/bootgame/main.py"
+  709  /opt/anaconda3/envs/bootgame/bin/python "/Users/salman/Library/CloudStorage/Dropbox/Self Learning/AI and Machine Learning/ML Video and Book Courses/2025 Bootdev Course/bootgame/main.py"
+  710  clear
+  711  /opt/anaconda3/envs/bootgame/bin/python "/Users/salman/Library/CloudStorage/Dropbox/Self Learning/AI and Machine Learning/ML Video and Book Courses/2025 Bootdev Course/bootgame/main.py"
+  712  /opt/anaconda3/envs/bootgame/bin/python "/Users/salman/Library/CloudStorage/Dropbox/Self Learning/AI and Machine Learning/ML Video and Book Courses/2025 Bootdev Course/bootgame/test.py"
+  713  /opt/anaconda3/envs/bootgame/bin/python "/Users/salman/Library/CloudStorage/Dropbox/Self Learning/AI and Machine Learning/ML Video and Book Courses/2025 Bootdev Course/bootgame/main.py"
+  714  /opt/anaconda3/envs/bootgame/bin/python "/Users/salman/Library/CloudStorage/Dropbox/Self Learning/AI and Machine Learning/ML Video and Book Courses/2025 Bootdev Course/bootgame/main.py"
+  715  /opt/anaconda3/envs/bootgame/bin/python "/Users/salman/Library/CloudStorage/Dropbox/Self Learning/AI and Machine Learning/ML Video and Book Courses/2025 Bootdev Course/bootgame/main.py"
+  716  /opt/anaconda3/envs/bootgame/bin/python "/Users/salman/Library/CloudStorage/Dropbox/Self Learning/AI and Machine Learning/ML Video and Book Courses/2025 Bootdev Course/bootgame/main.py"
+  717  /opt/anaconda3/envs/bootgame/bin/python "/Users/salman/Library/CloudStorage/Dropbox/Self Learning/AI and Machine Learning/ML Video and Book Courses/2025 Bootdev Course/bootgame/main.py"
+  718  /opt/anaconda3/envs/bootgame/bin/python "/Users/salman/Library/CloudStorage/Dropbox/Self Learning/AI and Machine Learning/ML Video and Book Courses/2025 Bootdev Course/bootgame/main.py"
+  719  /opt/anaconda3/envs/bootgame/bin/python "/Users/salman/Library/CloudStorage/Dropbox/Self Learning/AI and Machine Learning/ML Video and Book Courses/2025 Bootdev Course/bootgame/main.py"
+  720  /opt/anaconda3/envs/bootgame/bin/python "/Users/salman/Library/CloudStorage/Dropbox/Self Learning/AI and Machine Learning/ML Video and Book Courses/2025 Bootdev Course/bootgame/main.py"
+  721  /opt/anaconda3/envs/bootgame/bin/python "/Users/salman/Library/CloudStorage/Dropbox/Self Learning/AI and Machine Learning/ML Video and Book Courses/2025 Bootdev Course/bootgame/main.py"
+  722  /opt/anaconda3/envs/bootgame/bin/python "/Users/salman/Library/CloudStorage/Dropbox/Self Learning/AI and Machine Learning/ML Video and Book Courses/2025 Bootdev Course/bootgame/main.py"
+  723  /opt/anaconda3/envs/bootgame/bin/python "/Users/salman/Library/CloudStorage/Dropbox/Self Learning/AI and Machine Learning/ML Video and Book Courses/2025 Bootdev Course/bootgame/main.py"
+  724  /opt/anaconda3/envs/bootgame/bin/python "/Users/salman/Library/CloudStorage/Dropbox/Self Learning/AI and Machine Learning/ML Video and Book Courses/2025 Bootdev Course/bootgame/main.py"
+  725  /opt/anaconda3/envs/bootgame/bin/python
+  726  /usr/bin/python3 /Users/salman/.vscode/extensions/ms-python.python-2025.4.0-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/salman/.vscode/extensions/ms-python.python-2025.4.0-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  727  /opt/anaconda3/envs/bootgame/bin/python "/Users/salman/Library/CloudStorage/Dropbox/Self Learning/AI and Machine Learning/ML Video and Book Courses/2025 Bootdev Course/bootgame/main.py"
+  728  /opt/anaconda3/envs/bootgame/bin/python "/Users/salman/Library/CloudStorage/Dropbox/Self Learning/AI and Machine Learning/ML Video and Book Courses/2025 Bootdev Course/bootgame/circleshape.py"
+  729  clear
+  730  /opt/anaconda3/envs/bootgame/bin/python "/Users/salman/Library/CloudStorage/Dropbox/Self Learning/AI and Machine Learning/ML Video and Book Courses/2025 Bootdev Course/bootgame/main.py"
+  731  clear
+  732  /usr/bin/python3 /Users/salman/.vscode/extensions/ms-python.python-2025.4.0-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/salman/.vscode/extensions/ms-python.python-2025.4.0-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  733  /usr/bin/python3 /Users/salman/.vscode/extensions/ms-python.python-2025.4.0-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/salman/.vscode/extensions/ms-python.python-2025.4.0-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  734  ffmpeg -version
+  735  /usr/bin/python3 /Users/salman/.vscode/extensions/ms-python.python-2025.4.0-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/salman/.vscode/extensions/ms-python.python-2025.4.0-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  736  conda activate bootgame
+  737  ls
+  738  python3 main.py
+  739  python3 main.py
+  740  python3 main.py
+  741  python3 main.py
+  742  python3 main.py
+  743  python3 main.py
+  744  PATH = $PATH:HOME/go/bin
+  745  PATH=$PATH:HOME/go/bin
+  746  bootdev --version
+  747  bootdev -version
+  748  PATH=$PATH:$HOME/go/bin
+  749  bootdev --version
+  750  bootdev upgrade
+  751  gh auth status
+  752  git add . \\nquit
+  753  git add . 
+  754  git commit -m "Shooting 1st"
+  755  git push origin main
+  756  python3 main.py
+  757  git add . 
+  758  git commit -m "Shooting 2nd with delay"
+  759  git push origin main
+  760  python3 main.py
+  761  git add . 
+  762  git commit -m "Shooting destroy asteroid"
+  763  git push origin main
+  764  python3 main.py
+  765  python3 main.py
+  766  python3 main.py
+  767  python3 main.py
+  768  python3 main.py
+  769  python3 main.py
+  770  /usr/bin/python3 /Users/salman/.vscode/extensions/ms-python.python-2025.4.0-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/salman/.vscode/extensions/ms-python.python-2025.4.0-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  771  /usr/bin/python3 /Users/salman/.vscode/extensions/ms-python.python-2025.4.0-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/salman/.vscode/extensions/ms-python.python-2025.4.0-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  772  /usr/bin/python3 /Users/salman/.vscode/extensions/ms-python.python-2025.4.0-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/salman/.vscode/extensions/ms-python.python-2025.4.0-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  773  /usr/bin/python3 /Users/salman/.vscode/extensions/ms-python.python-2025.4.0-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/salman/.vscode/extensions/ms-python.python-2025.4.0-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  774  /usr/bin/python3 /Users/salman/.vscode/extensions/ms-python.python-2025.6.0-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/salman/.vscode/extensions/ms-python.python-2025.6.0-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  775  /usr/bin/python3 /Users/salman/.vscode/extensions/ms-python.python-2025.6.0-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/salman/.vscode/extensions/ms-python.python-2025.6.0-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  776  /usr/bin/python3 /Users/salman/.vscode/extensions/ms-python.python-2025.6.0-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/salman/.vscode/extensions/ms-python.python-2025.6.0-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  777  /usr/bin/python3 /Users/salman/.vscode/extensions/ms-python.python-2025.6.0-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/salman/.vscode/extensions/ms-python.python-2025.6.0-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  778  /usr/bin/python3 /Users/salman/.vscode/extensions/ms-python.python-2025.6.0-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/salman/.vscode/extensions/ms-python.python-2025.6.0-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  779  conda activate bootdev
+  780  conda activate bootgame
+  781  PATH=$PATH:$HOME/go/bin
+  782  bootdev --version
+  783  gh auth status
+  784  git add . 
+  785  cd bootgame
+  786  ls
+  787  git add . 
+  788  git commit -m "Game complete"
+  789  git origin main
+  790  git push origin main
+  791  /usr/bin/python3 /Users/salman/.vscode/extensions/ms-python.python-2025.6.1-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/salman/.vscode/extensions/ms-python.python-2025.6.1-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  792  /usr/bin/python3 /Users/salman/.vscode/extensions/ms-python.python-2025.6.1-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/salman/.vscode/extensions/ms-python.python-2025.6.1-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  793  /usr/bin/python3 /Users/salman/.vscode/extensions/ms-python.python-2025.6.1-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/salman/.vscode/extensions/ms-python.python-2025.6.1-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  794  /usr/bin/python3 /Users/salman/.vscode/extensions/ms-python.python-2025.6.1-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/salman/.vscode/extensions/ms-python.python-2025.6.1-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  795  /usr/bin/python3 /Users/salman/.vscode/extensions/ms-python.python-2025.6.1-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/salman/.vscode/extensions/ms-python.python-2025.6.1-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  796  /usr/bin/python3 /Users/salman/.vscode/extensions/ms-python.python-2025.6.1-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/salman/.vscode/extensions/ms-python.python-2025.6.1-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  797  /usr/bin/python3 /Users/salman/.vscode/extensions/ms-python.python-2025.6.1-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/salman/.vscode/extensions/ms-python.python-2025.6.1-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  798  /usr/bin/python3 /Users/salman/.vscode/extensions/ms-python.python-2025.6.1-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/salman/.vscode/extensions/ms-python.python-2025.6.1-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  799  /usr/bin/python3 /Users/salman/.vscode/extensions/ms-python.python-2025.6.1-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/salman/.vscode/extensions/ms-python.python-2025.6.1-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  800  /usr/bin/python3 /Users/salman/.vscode/extensions/ms-python.python-2025.6.1-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/salman/.vscode/extensions/ms-python.python-2025.6.1-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  801  /usr/bin/python3 /Users/salman/.vscode/extensions/ms-python.python-2025.6.1-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/salman/.vscode/extensions/ms-python.python-2025.6.1-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  802  /opt/anaconda3/envs/bootgame/bin/python "/Users/salman/Library/CloudStorage/Dropbox/Self Learning/AI and Machine Learning/ML Video and Book Courses/2025 Bootdev Course/aiagent/main.py"
+  803  /opt/anaconda3/envs/bootgame/bin/python "/Users/salman/Library/CloudStorage/Dropbox/Self Learning/AI and Machine Learning/ML Video and Book Courses/2025 Bootdev Course/aiagent/main.py"
+  804  /usr/bin/python3 /Users/salman/.vscode/extensions/ms-python.python-2025.6.1-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/salman/.vscode/extensions/ms-python.python-2025.6.1-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  805  /usr/bin/python3 /Users/salman/.vscode/extensions/ms-python.python-2025.6.1-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/salman/.vscode/extensions/ms-python.python-2025.6.1-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  806  /usr/bin/python3 /Users/salman/.vscode/extensions/ms-python.python-2025.6.1-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/salman/.vscode/extensions/ms-python.python-2025.6.1-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  807  /usr/bin/python3 /Users/salman/.vscode/extensions/ms-python.python-2025.6.1-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/salman/.vscode/extensions/ms-python.python-2025.6.1-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  808  /usr/bin/python3 /Users/salman/.vscode/extensions/ms-python.python-2025.6.1-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/salman/.vscode/extensions/ms-python.python-2025.6.1-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  809  /usr/bin/python3 /Users/salman/.vscode/extensions/ms-python.python-2025.8.0-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/salman/.vscode/extensions/ms-python.python-2025.8.0-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  810  /usr/bin/python3 /Users/salman/.vscode/extensions/ms-python.python-2025.6.1-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/salman/.vscode/extensions/ms-python.python-2025.6.1-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  811  /usr/bin/python3 /Users/salman/.vscode/extensions/ms-python.python-2025.8.0-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/salman/.vscode/extensions/ms-python.python-2025.8.0-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  812  /usr/bin/python3 /Users/salman/.vscode/extensions/ms-python.python-2025.8.0-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/salman/.vscode/extensions/ms-python.python-2025.8.0-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  813  conda env list
+  814  python --version
+  815  conda activate bootgame
+  816  python --version
+  817  bootdev -v
+  818  PATH=$PATH:$HOME/go/bin
+  819  echo $PATH
+  820  bootdev -v
+  821  bootdeve -h
+  822  bootdev -h
+  823  bootdev upgrade
+  824  bootdev run 44e182d7-c2c6-4c7e-9313-1b078e301344
+  825  bootdev run 44e182d7-c2c6-4c7e-9313-1b078e301344 -s
+  826  ls
+  827  git clone https://github.com/mithas92/aiagent
+  828  ls
+  829  cd aiagent
+  830  ls
+  831  nvm
+  832  nvim
+  833  touch requirements.txt
+  834  nvim requirements.txt
+  835  cls
+  836  echo requirements.txt
+  837  pip freeze
+  838  pip --version
+  839  pip list
+  840  pip install -r requirements.txt
+  841  pip list
+  842  bootdev run 76e609bd-cb64-454f-8563-484d00baddb1
+  843  bootdev run 76e609bd-cb64-454f-8563-484d00baddb1 -s
+  844  ls
+  845  ls -a
+  846  touch .gitignore
+  847  ls -a
+  848  nvim .gitignore
+  849  touch .env
+  850  ls -a
+  851  git add
+  852  git add .
+  853  git commit -m "Initial files setup"
+  854  git push origin main
+  855  nvim .env
+  856  cat .env
+  857  ls
+  858  bootdev --version
+  859  bootdev run 3d695968-98c9-4a91-b1e2-0ca53e8826b7
+  860  bootdev run 3d695968-98c9-4a91-b1e2-0ca53e8826b7 -s
+  861  git add .
+  862  git commit -m "Lesson 3"
+  863  git push origin main
+  864  python3 main.py "Why are episodes 7-9 so much worse than 1-6?"
+  865  python3 main.py
+  866  bootdev run af016861-2da0-46df-ab62-660660f81898
+  867  bootdev run af016861-2da0-46df-ab62-660660f81898 -s
+  868  git add .
+  869  git commit -m "Lesson 4"
+  870  git push origin main
+  871  python3 main.py "Why are episodes 7-9 so much worse than 1-6?"
+  872  python3 main.py "Why are episodes 7-9 so much worse than 1-6?"
+  873  python3 main.py "Why are episodes 7-9 so much worse than 1-6?"
+  874  python3 main.py "What is the meaining of life"
+  875  python3 main.py "What is the meaining of life"
+  876  python3 main.py "What is the meaining of life"
+  877  python3 main.py "What is the meaining of life" --verbose
+  878  bootdev run 7a603e06-4517-4842-9a19-4f4b65adb410
+  879  bootdev run 7a603e06-4517-4842-9a19-4f4b65adb410 -s
+  880  git add .
+  881  git commit -m "Lesson 6 verbose"
+  882  git push origin main
+  883  ls
+  884  dir
+  885  cd calculator
+  886  ls
+  887  python3 tests.py
+  888  python3 main.py "3 + 5"
+  889  cd ..
+  890  ls
+  891  bootdev run 325d88f7-ce86-4ccd-a99d-dcdfef44f2e8
+  892  bootdev run 325d88f7-ce86-4ccd-a99d-dcdfef44f2e8 -s
+  893  git add .
+  894  git commit -m "Ch2 L1 Calc"
+  895  git push origin main
+  896  ls
+  897  ls
+  898  ls
+  899  go version
+  900  git ls-remote
+  901  /usr/bin/python3 /Users/salman/.vscode/extensions/ms-python.python-2025.8.0-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/salman/.vscode/extensions/ms-python.python-2025.8.0-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  902  /usr/bin/python3 /Users/salman/.vscode/extensions/ms-python.python-2025.8.0-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/salman/.vscode/extensions/ms-python.python-2025.8.0-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  903  /usr/bin/python3 /Users/salman/.vscode/extensions/ms-python.python-2025.8.0-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/salman/.vscode/extensions/ms-python.python-2025.8.0-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  904  ls
+  905  python tests.py
+  906  bootdev run b9003ff6-65cb-4ebc-8be3-e239d3d36b6a
+  907  PATH=$PATH:$HOME/go/bin
+  908  conda activate bootgame
+  909  bootdev run b9003ff6-65cb-4ebc-8be3-e239d3d36b6a
+  910  bootdev upgrade
+  911  bootdev run b9003ff6-65cb-4ebc-8be3-e239d3d36b6a
+  912  bootdev run b9003ff6-65cb-4ebc-8be3-e239d3d36b6a -s
+  913  git add .
+  914  git commit -m "Ch2 L2 Get files"
+  915  git push origin main
+  916  git ls-remote
+  917  /usr/bin/python3 /Users/salman/.vscode/extensions/ms-python.python-2025.8.0-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/salman/.vscode/extensions/ms-python.python-2025.8.0-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  918  /usr/bin/python3 /Users/salman/.vscode/extensions/ms-python.python-2025.10.0-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/salman/.vscode/extensions/ms-python.python-2025.10.0-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  919  /usr/bin/python3 /Users/salman/.vscode/extensions/ms-python.python-2025.8.0-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/salman/.vscode/extensions/ms-python.python-2025.8.0-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  920  /usr/bin/python3 /Users/salman/.vscode/extensions/ms-python.python-2025.8.1-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/salman/.vscode/extensions/ms-python.python-2025.8.1-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  921  /usr/bin/python3 /Users/salman/.vscode/extensions/ms-python.python-2025.10.0-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/salman/.vscode/extensions/ms-python.python-2025.10.0-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  922  /usr/bin/python3 /Users/salman/.vscode/extensions/ms-python.python-2025.10.0-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/salman/.vscode/extensions/ms-python.python-2025.10.0-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  923  /usr/bin/python3 /Users/salman/.vscode/extensions/ms-python.python-2025.10.0-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/salman/.vscode/extensions/ms-python.python-2025.10.0-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  924  /usr/bin/python3 /Users/salman/.vscode/extensions/ms-python.python-2025.10.1-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/salman/.vscode/extensions/ms-python.python-2025.10.1-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+  925  ls
+  926  echo $PATH
+  927  cd ~
+  928  ls
+  929  ls -ad
+  930  ls -al
+  931  ls
+  932  ls -al
+  933  uv
+  934  uv init
+  935  ls -al
+  936  cat pyproject.toml
+  937  uv venv
+  938  cat pyproject.toml
+  939  source .venv/bin/activate
+  940  uv add -r requirements.txt
+  941  ls -al
+  942  cat pyproject.toml
+  943  which python
+  944  ls -al
+  945  uv run tests.py
+  946  bootdev run b9003ff6-65cb-4ebc-8be3-e239d3d36b6a
+  947  PATH=$PATH:$HOME/go/bin
+  948  bootdev run b9003ff6-65cb-4ebc-8be3-e239d3d36b6a
+  949  ls -a
+  950  git remote show origin
+  951  git add .
+  952  git commit -m "L3 Start:
+  953  git commit -m "L3 Start"
+  954  git push origin main
+  955  ls
+  956  uv run tests.py
+  957  uv run tests.py
+  958  uv run tests.py
+  959  ls
+  960  uv run tests.py
+  961  bootdev run b22c58d0-7806-4b70-9dd0-0f5bed625471
+  962  bootdev run b22c58d0-7806-4b70-9dd0-0f5bed625471 -s
+  963  git add .
+  964  git commit -m "L3 File Content"
+  965  git push origin main
+  966  uv run tests.py
+  967  bootdev run 32aecdf3-8c26-4ece-b961-848211a073c8
+  968  bootdev run 32aecdf3-8c26-4ece-b961-848211a073c8 -s
+  969  git add .
+  970  git commit -m "Ch2 L4 Write File"
+  971  git push origin main
+  972  uv run tests.py
+  973  uv run tests.py
+  974  bootdev run c56e704c-3b4d-4673-8333-81a93a34fdd0
+  975  bootdev run c56e704c-3b4d-4673-8333-81a93a34fdd0
+  976  bootdev run c56e704c-3b4d-4673-8333-81a93a34fdd0 -s
+  977  git add .
+  978  git commit -m "Ch2 L5 Run Python"
+  979  git push origin main
+  980  bootdev run c56e704c-3b4d-4673-8333-81a93a34fdd0
+  981  git add .
+  982  git commit -m "Ch2 L5 Run Python: small name change"
+  983  git push origin main
+  984  echo $PATH
+  985  ls
+  986  bootdev --version
+  987  ls
+  988  ls -al
+  989  uv run main.py 
+  990  uv run main.py "What is the square root of 42"
+  991  bootdev run 56b6f7a3-45eb-4e57-a0b4-4662c503ee7e
+  992  bootdev run 56b6f7a3-45eb-4e57-a0b4-4662c503ee7e -s
+  993  git add .
+  994  git commit -m "Ch3 L1 System Prompt"
+  995  git push origin main
+  996  uv run main.py "What is the square root of 42"
+  997  git add .
+  998  git commit -m "Ch3 L1 System Prompt v1.1 cleaner code"
+  999  git push origin main
+ 1000  ls
