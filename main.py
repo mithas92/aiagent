@@ -1,4 +1,4 @@
-# Testing out Gemini Connection
+# Main file for the aiagent bootdev course
 import os
 import sys
 from dotenv import load_dotenv
@@ -7,7 +7,9 @@ from google import genai
 from google.genai import types
 
 from prompts import system_prompt
-from functions.get_files_info import available_functions
+
+#Defines which functions are available for the LLM to use. 
+from call_function import available_functions
 
 model_name = 'gemini-2.0-flash-001'
 
@@ -33,12 +35,16 @@ def main():
 
     client  = genai.Client(api_key=api_key)
 
+    # The config=type.generate.config points to the list of available functins. The list is in 
+    # available_function. The list then takes it to 
     response = client.models.generate_content(
         model=model_name, 
         contents=messages,
         config=types.GenerateContentConfig(
             tools=[available_functions],system_instruction=system_prompt)
     )
+
+
     if len(sys.argv) > 2 and sys.argv[2] == "--verbose":
         print (f"User prompt: {user_prompt}")
         print(f"Prompt tokens: {response.usage_metadata.prompt_token_count}")

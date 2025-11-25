@@ -2,6 +2,8 @@ import os
 import subprocess
 import sys
 
+from google.genai import types
+
 def run_python_file(working_directory, file_path, args=None):
     """
     Run an external Python script, capturing stdout/stderr.
@@ -58,3 +60,19 @@ def run_python_file(working_directory, file_path, args=None):
     except Exception as e:
         # 7. Catch any execution errors
         return f"Error: executing Python file: {e}"
+    
+
+schema_run_python_file = types.FunctionDeclaration(
+    name="run_python_file",
+    description="Runs a python file with or without arguments. The file path is provided and is limited to the sub-tree within the working directory.",
+    parameters=types.Schema(
+        type=types.Type.OBJECT,
+        properties={
+            "file_path": types.Schema(
+                type=types.Type.STRING,
+                description="The file path is relative to the working directory and inlcudes the name. Errors are produced are returned in the output",
+            ),
+        },
+    ),
+)
+

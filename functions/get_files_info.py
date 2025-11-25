@@ -1,5 +1,4 @@
 import os
-from google import genai
 from google.genai import types
 
 def get_files_info(working_directory, directory=None):
@@ -39,8 +38,8 @@ def get_files_info(working_directory, directory=None):
 
     except Exception as e:
         return f'Error: {e}'
-    
 
+# This helps file LLM to understand what the function does.  
 schema_get_files_info = types.FunctionDeclaration(
     name="get_files_info",
     description="Lists files in the specified directory along with their sizes, constrained to the working directory.",
@@ -56,10 +55,5 @@ schema_get_files_info = types.FunctionDeclaration(
 )
 
 
-available_functions = types.Tool(
-    function_declarations=[
-        schema_get_files_info,
-    ]
-)
 
 
