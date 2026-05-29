@@ -11,7 +11,7 @@ from prompts import system_prompt
 #Defines which functions are available for the LLM to use. 
 from call_function import available_functions
 
-model_name = 'gemini-2.0-flash-001'
+model_name = 'gemini-2.5-flash'
 
 def main():
 
@@ -44,7 +44,12 @@ def main():
             tools=[available_functions],system_instruction=system_prompt)
     )
 
+    print (f"User prompt: {user_prompt}")
+    print(f"Prompt tokens: {response.usage_metadata.prompt_token_count}")
+    print(f"Response tokens: {response.usage_metadata.candidates_token_count}")    
 
+    
+    
     if len(sys.argv) > 2 and sys.argv[2] == "--verbose":
         print (f"User prompt: {user_prompt}")
         print(f"Prompt tokens: {response.usage_metadata.prompt_token_count}")
