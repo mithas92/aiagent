@@ -26,6 +26,8 @@ def main():
         print('Example: python main.py "How do I fix the calculator?"')
         sys.exit(1)
 
+    # user_prompt = "What is the capital of Pakistan"
+
     messages = [
         types.Content(
             role="user",
@@ -44,9 +46,9 @@ def main():
             tools=[available_functions],system_instruction=system_prompt)
     )
 
-    print (f"User prompt: {user_prompt}")
-    print(f"Prompt tokens: {response.usage_metadata.prompt_token_count}")
-    print(f"Response tokens: {response.usage_metadata.candidates_token_count}")    
+    # print (f"User prompt: {user_prompt}")
+    # print(f"Prompt tokens: {response.usage_metadata.prompt_token_count}")
+    # print(f"Response tokens: {response.usage_metadata.candidates_token_count}")    
 
     
     
