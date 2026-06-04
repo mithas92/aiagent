@@ -3,6 +3,7 @@ gemini_tests.ipynb
 .venv
 Algorithm_Notes_per_lesson.docx
 WordDocs
+test_get_files_info.py
 CLAUDE.md
 .claude/
 
