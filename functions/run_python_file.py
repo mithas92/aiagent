@@ -28,9 +28,9 @@ def run_python_file(working_directory, file_path, args=None):
     if os.path.commonpath([wd_abs, fp_abs]) != wd_abs:
         return f'Error: Cannot execute "{file_path}" as it is outside the permitted working directory'
 
-    # 3. File must exist
-    if not os.path.exists(fp_abs):
-        return f'Error: File "{file_path}" not found.'
+    # 3. Must be a file (not a directory)
+    if not os.path.isfile(fp_abs):
+        return f'Error: "{file_path}" does not exist or is not a regular file'
 
     # 4. Must be a .py file
     if not fp_abs.endswith('.py'):
