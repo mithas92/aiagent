@@ -17,7 +17,7 @@ def write_file(working_directory, file_path, content):
 
         # Verify that file_abs is inside wd_abs
         if not (file_abs == wd_abs or file_abs.startswith(wd_abs + os.sep)):
-            return f'Error: Cannot read "{file_path}" as it is outside the permitted working directory'
+            return f'Error: Cannot write to "{file_path}" as it is outside the permitted working directory'
 
         # Ensure parent directory exists
         parent_dir = os.path.dirname(file_abs)
