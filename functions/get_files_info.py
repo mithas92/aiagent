@@ -40,6 +40,7 @@ def get_files_info(working_directory, directory=None) -> str:
         return f'Error: {e}'
 
 # This helps file LLM to understand what the function does.  
+# The working directory is NOT passed by the LLM. So it is not mentioned in the schema
 schema_get_files_info = types.FunctionDeclaration(
     name="get_files_info",
     description="Lists files in the specified directory along with their sizes, constrained to the working directory.",
