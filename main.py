@@ -6,10 +6,11 @@ from google import genai
 
 from google.genai import types
 
+# The System Prompt
 from prompts import system_prompt
 
-#Defines which functions are available for the LLM to use. 
-from call_function import available_functions
+# CALLING functions. Defines which are vailable are available for the LLM to use. 
+from call_function import available_functions, call_function
 
 model_name = 'gemini-2.5-flash'
 
@@ -51,20 +52,44 @@ def main():
     # print (f"User prompt: {user_prompt}")
     # print(f"Prompt tokens: {response.usage_metadata.prompt_token_count}")
     # print(f"Response tokens: {response.usage_metadata.candidates_token_count}")    
-
     
-    
-    if len(sys.argv) > 2 and sys.argv[2] == "--verbose":
-        print (f"User prompt: {user_prompt}")
-        print(f"Prompt tokens: {response.usage_metadata.prompt_token_count}")
-        print(f"Response tokens: {response.usage_metadata.candidates_token_count}")    
+    # if len(sys.argv) > 2 and sys.argv[2] == "--verbose":
+    #     print (f"User prompt: {user_prompt}")
+    #     print(f"Prompt tokens: {response.usage_metadata.prompt_token_count}")
+    #     print(f"Response tokens: {response.usage_metadata.candidates_token_count}")    
 
-    if response.function_calls:
-        for i in response.function_calls:
-           print(f"Calling function: {i.name}({i.args})")
-    else:
-        print("Response", response.text)    
+    # if response.function_calls:
+    #     for i in response.function_calls:
+    #        print(f"Old Test calling function:  {i.name}({i.args})")
+    # else:
+    #     print("Old Test Response:  ", response.text)    
   
+    if len(sys.argv) > 2: 
+        verbose = sys.argv[2] == "--verbose"
+    else:
+        verbose = False
+
+    func_results = []
+  
+    # response.function_calls is a LIST of objects type.FunctionCall
+    if response.function_calls:
+        for func_call in response.function_calls:
+            function_call_result = call_function(func_call, verbose)
+            if not function_call_result.parts:
+               raise ValueError(f"Function '{func_call.name}' returned a result with no parts.")
+            if not function_call_result.parts[0].function_response:
+               raise ValueError(f"Function '{func_call.name}' returned with response")
+            if not function_call_result.parts[0].function_response.response:
+               raise ValueError(f"Function '{func_call.name}' returned with response text")
+           
+            func_results.append(function_call_result.parts[0])
+
+            if verbose:
+                print(f"-> {function_call_result.parts[0].function_response.response}")
+
+    else:
+        print("New no Test Response:  ", response.text)    
+
 
 if __name__ == "__main__":
     main()

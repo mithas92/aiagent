@@ -37,7 +37,7 @@ def run_python_file(working_directory, file_path, args=None):
         return f'Error: "{file_path}" is not a Python file.'
 
     try:
-        # 5. Run via subprocess.run
+        # 5. Run via subprocess.run. Note sys.executable provides the exact python interpreter
         completed_process = subprocess.run(
             [sys.executable, fp_abs] + args,
             cwd=wd_abs,
