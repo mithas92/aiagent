@@ -81,11 +81,14 @@ def main():
                raise ValueError(f"Function '{func_call.name}' returned with response")
             if not function_call_result.parts[0].function_response.response:
                raise ValueError(f"Function '{func_call.name}' returned with response text")
-           
+                       
             func_results.append(function_call_result.parts[0])
-
+            
+            print(f"\n *** INSIDE MAIN.PY  ****")
+            print(f" func_call --> {func_call}. <--")
+            print(f" function_call_result.part[0] --> {function_call_result.parts[0]} <--")
             if verbose:
-                print(f"-> {function_call_result.parts[0].function_response.response}")
+                print(f"\n Bootdev req printout -> {function_call_result.parts[0].function_response.response}")
 
     else:
         print("New no Test Response:  ", response.text)    

@@ -49,8 +49,14 @@ def call_function(function_call: types.FunctionCall, verbose: bool = False) -> t
     args = dict(function_call.args) if function_call.args else {}
     args["working_directory"] = "./calculator" #Add the working directory. 
 
+    print(f"\n +++ INSIDE CALL_FUNCTION.PY +++ ")
+    print(f" --> function name: {function_name}")
+    print(f" --> arg dictionary: {args}")
+    
     # Run the function. Using Keyword Arguments using a dictionary. 
     function_result = function_map[function_name](**args)
+    
+    print(f" --> result from function: {function_result} <---")
 
     # MAIN RETURN FUNCTION
     return types.Content(
