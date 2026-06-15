@@ -9,8 +9,11 @@ from google.genai import types
 # The System Prompt
 from prompts import system_prompt
 
-# CALLING functions. Defines which are vailable are available for the LLM to use. 
+# CALLING functions. Defines which are vailable are available for the LLM to use.
 from call_function import available_functions, call_function
+
+# Logging
+from log_to_csv import log_call
 
 model_name = 'gemini-2.5-flash'
 
@@ -83,12 +86,17 @@ def main():
                raise ValueError(f"Function '{func_call.name}' returned with response text")
                        
             func_results.append(function_call_result.parts[0])
+
+            # # Test Printouts. 
+            # print(f"\n *** INSIDE MAIN.PY  ****")
+            # print(f" func_call --> {func_call}. <--")
+            # print(f" function_call_result.part[0] --> {function_call_result.parts[0]} <--")
             
-            print(f"\n *** INSIDE MAIN.PY  ****")
-            print(f" func_call --> {func_call}. <--")
-            print(f" function_call_result.part[0] --> {function_call_result.parts[0]} <--")
+            # Bootdev required Printout. 
             if verbose:
                 print(f"\n Bootdev req printout -> {function_call_result.parts[0].function_response.response}")
+	             # Log to CSV
+            log_call(user_prompt, func_call.name, func_call.args, function_call_result.parts[0].function_response.response)
 
     else:
         print("New no Test Response:  ", response.text)    
